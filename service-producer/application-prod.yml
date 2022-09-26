@@ -1,3 +1,10 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+
 myenv: repo prod 111
 version: repo prod 10
 date: repo prod 20220921 15:41
