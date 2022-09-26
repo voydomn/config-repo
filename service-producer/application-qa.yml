@@ -1,3 +1,10 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+
 myenv: repo qa 777
 version: repo qa 15
 date: repo qa 20220921 15:41
